@@ -1,5 +1,5 @@
 {
-    "appName": "site-store-db",
+    "appName": "fhir-store-db",
     "instanceCount": 1,
     "notExposeAsWebApp": true,
     "envVars": [
