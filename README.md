@@ -1,4 +1,4 @@
-# Site store DB
+# FHIR store DB
 
 ### Overview
 
